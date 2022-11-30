@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+NAV{
+        /* background-color: black; */
+        color: black;
+        width: 100vw;
+        height: 60px;
+        margin: 0%;
+        background-image: linear-gradient(blue,pink,green,yellow,);
+}
+.NAME{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    margin-left: 8px;
+    position: absolute;
+    top: 13px;
+
+}
+.PRO{
+    font-family: cursive;
+    font-weight: 500;
+    font-style: normal;
+    margin: 9px;
+    position: absolute;
+    top: 29px;
+    left: 90px;
+}
+.PH{
+    background-color: blue;
+    color: black;
+    width: 100vw;
+    height: 40px;
+    text-align: center;
+    background-image: linear-gradient(green,red,orange,yellow,skyblue);
+
+}
